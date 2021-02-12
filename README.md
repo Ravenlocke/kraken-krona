@@ -10,4 +10,4 @@ A repository of scripts to run Kraken and Krona on FastQ files
     # Run the analysis on your data
     $ ./run.sh <infile.fastq> <tag>
 
-`<infile.fastq>` is your input data in FASTQ format, and `<tag>` is the prefix that your result outputs will be labelled with.
+`<infile.fastq>` is your input data in FASTQ format, and `<tag>` is the prefix that your result outputs will be labelled with. Run these scripts from inside the `kraken-krona` directory (i.e., the top-level directory of the repository).
