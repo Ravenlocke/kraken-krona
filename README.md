@@ -5,7 +5,7 @@ A repository of scripts to run Kraken and Krona on FastQ files
     $ conda env create -f=environment.yml -n k2
     # Activate the environment
     $ conda activate k2
-    # Download the dependencies
+    # Download the data dependencies
     $ ./get_dependencies.sh
     # Run the analysis on your data
     $ ./run.sh <infile.fastq> <tag>
